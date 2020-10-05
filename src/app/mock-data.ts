@@ -49,8 +49,7 @@ export const DATA: any  = {
       'available': true,
       'best_seller': false,
       'categories': [
-        1,
-        4
+        7,
       ],
       'img': 'http://lorempixel.com/200/100/food/',
       'description': 'Estilo: Porter Grado de alcohol: 5,4% Presentación: 330 ml'
