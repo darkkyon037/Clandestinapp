@@ -113,7 +113,6 @@ export const DATA: any  = {
       'best_seller': false,
       'categories': [
         1,
-        4
       ],
       'img': 'http://lorempixel.com/200/100/food/',
       'description': 'Estilo: India Pale Ale Grado de alcohol: 6,2% Presentación: 330 ml'
