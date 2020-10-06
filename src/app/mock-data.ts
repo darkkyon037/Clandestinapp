@@ -15,7 +15,7 @@ export const DATA: any  = {
     {
       'categori_id': 4,
       'name': 'Pale Ale'
-    }
+    },
     {
       'categori_id': 5,
       'name': 'Blonde Ale'
@@ -31,7 +31,7 @@ export const DATA: any  = {
     {
       'categori_id': 8,
       'name': 'Amber Ale'
-    }
+    },
     {
       'categori_id': 9,
       'name': 'Stout'
@@ -167,7 +167,7 @@ export const DATA: any  = {
       ],
       'img': 'http://lorempixel.com/200/100/food/',
       'description': 'Estilo: Cream Ale, Ale Grado de alcohol: 5,0% Presentación: 500 ml'
-    }
+    },
     {
       'id': 11,
       'name': 'Wicca Locura Colectiva',
@@ -180,7 +180,7 @@ export const DATA: any  = {
       ],
       'img': 'http://lorempixel.com/200/100/food/',
       'description': 'Estilo: Sour Ale  Grado de alcohol: 5,0% Presentación: 500 ml'
-    }
+    },
     {
       'id': 12,
       'name': 'Olympus Zeus',
