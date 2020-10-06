@@ -51,7 +51,7 @@ export const DATA: any  = {
       'categories': [
         7,
       ],
-      'img': 'http://lorempixel.com/200/100/food/',
+      'img': 'https://alternativebeer.com.co/wp-content/uploads/2019/10/Cerveza-Memorial-1831.jpg',
       'description': 'Estilo: Porter Grado de alcohol: 5,4% Presentación: 330 ml'
     },
     {
@@ -63,7 +63,7 @@ export const DATA: any  = {
       'categories': [
         
       ],
-      'img': 'http://lorempixel.com/200/100/food/',
+      'img': 'https://alternativebeer.com.co/wp-content/uploads/2020/05/Kalima-M%C3%A1s-M%C3%BAsica-Local.jpg',
       'description': 'Estilo: Doble IIPA, India Pale Ale Grado de alcohol: 8% Presentación: 330 ml.'
     },
     {
@@ -75,7 +75,7 @@ export const DATA: any  = {
       'categories': [
         4
       ],
-      'img': 'http://lorempixel.com/200/100/food/',
+      'img': 'https://alternativebeer.com.co/wp-content/uploads/2020/04/La-Santa-Sek.jpg,
       'description': 'Grado de alcohol: 5,0% Estilo: Kölsch Presentación: 350 ml.'
     },
     {
@@ -88,7 +88,7 @@ export const DATA: any  = {
         1,
         2
       ],
-      'img': 'http://lorempixel.com/200/100/food/',
+      'img': 'https://alternativebeer.com.co/tienda/cervezas/categorias/oscuras/hakuna-marinera/',
       'description': 'Estilo: Irish Red Ale Grado de alcohol: 6,5% Presentación: 330 ml'
     },
     {
@@ -101,7 +101,7 @@ export const DATA: any  = {
         1,
         4
       ],
-      'img': 'http://lorempixel.com/200/100/food/',
+      'img': 'https://alternativebeer.com.co/wp-content/uploads/2019/05/Monasterio-Inferno.png',
       'description': 'Estilo: Porter Grado de alcohol: 7% Presentación: 330 ml'
     },
     {
@@ -113,7 +113,7 @@ export const DATA: any  = {
       'categories': [
         1,
       ],
-      'img': 'http://lorempixel.com/200/100/food/',
+      'img': 'https://alternativebeer.com.co/wp-content/uploads/2020/05/Mysteria-India-Pale-Ale.jpg',
       'description': 'Estilo: India Pale Ale Grado de alcohol: 6,2% Presentación: 330 ml'
     },
     {
@@ -126,7 +126,7 @@ export const DATA: any  = {
         1,
         3
       ],
-      'img': 'http://lorempixel.com/200/100/food/',
+      'img': 'https://alternativebeer.com.co/wp-content/uploads/2020/04/Nink-Hannya.jpg',
       'description': 'Estilo: Belgian India Pale Ale, India Pale Ale Grado de alcohol: 7% Presentación: 330 ml'
     },
     {
@@ -139,7 +139,7 @@ export const DATA: any  = {
         1,
         3
       ],
-      'img': 'http://lorempixel.com/200/100/food/',
+      'img': 'https://alternativebeer.com.co/wp-content/uploads/2019/03/Nink-Inquisicion.png',
       'description': 'Estilo: Red IPA Grado de alcohol: 6,5% Presentación: 330 ml'
     },
     {
@@ -152,7 +152,7 @@ export const DATA: any  = {
         2,
         4
       ],
-      'img': 'http://lorempixel.com/200/100/food/',
+      'img': 'https://alternativebeer.com.co/wp-content/uploads/2019/03/Nink-Nott.jpg',
       'description': 'Estilo: Dry Stout, Stout Grado de alcohol: 6% Presentación: 330 ml'
     },
     {
@@ -165,7 +165,7 @@ export const DATA: any  = {
         2,
         3
       ],
-      'img': 'http://lorempixel.com/200/100/food/',
+      'img': 'https://alternativebeer.com.co/wp-content/uploads/2019/05/Wicca-Agua-Lunar.png',
       'description': 'Estilo: Cream Ale, Ale Grado de alcohol: 5,0% Presentación: 500 ml'
     },
     {
@@ -178,7 +178,7 @@ export const DATA: any  = {
         2,
         3
       ],
-      'img': 'http://lorempixel.com/200/100/food/',
+      'img': 'https://alternativebeer.com.co/wp-content/uploads/2019/05/Wicca-Locura-Colectiva.png',
       'description': 'Estilo: Sour Ale  Grado de alcohol: 5,0% Presentación: 500 ml'
     },
     {
@@ -191,7 +191,7 @@ export const DATA: any  = {
         2,
         3
       ],
-      'img': 'http://lorempixel.com/200/100/food/',
+      'img': 'https://alternativebeer.com.co/wp-content/uploads/2019/03/Zeus.jpg',
       'description': 'Estilo: American Golden Ale, Golden Ale Grado de alcohol: 4,8% Presentación: 330 ml'
     }
   ]
