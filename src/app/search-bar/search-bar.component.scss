@@ -41,10 +41,10 @@
   font-weight: 500;
   position: relative;
   left: -33px;
-  color: #999999;
+  color: #E9B21C;
   @include transition-fade-circ(0.4s);
   &:focus{
-    box-shadow: 0 4px 11px rgba(93, 78, 240, 0.09);
+    box-shadow: 0 4px 11px rgba(0, 0, 0, 0.09);
     font-weight: 500;
     color: $primary-color;
     width: 120%;
@@ -66,18 +66,18 @@ svg.animate-plop{
 }
 
 ::-webkit-input-placeholder {
-  color: #cccccc;
+  color: #E9B21C;
 }
 
 :-moz-placeholder { /* Firefox 18- */
-   color: #cccccc;
+   color: #E9B21C;
 }
 
 ::-moz-placeholder {  /* Firefox 19+ */
-   color: #cccccc
+   color: #E9B21C
 }
 :-ms-input-placeholder {
-   color: #cccccc;
+   color: #E9B21C;
 }
 
 svg{
