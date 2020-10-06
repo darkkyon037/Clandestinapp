@@ -6,8 +6,8 @@ export const DATA: any  = {
     },
     {
       'catergori_id': 2,
-      'name': 'Belgan India Pale Ale'  
-    }
+      'name': 'Belgian India Pale Ale'  
+    },
     {
       'categori_id': 3,
       'name': ' Red IPA'
@@ -150,7 +150,7 @@ export const DATA: any  = {
       'best_seller': false,
       'categories': [
         2,
-        1
+        1,
       ],
       'img': 'https://alternativebeer.com.co/wp-content/uploads/2020/04/Nink-Hannya.jpg',
       'description': 'Estilo: Belgian India Pale Ale, India Pale Ale Grado de alcohol: 7% Presentación: 330 ml'
