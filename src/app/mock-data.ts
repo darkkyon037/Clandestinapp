@@ -75,7 +75,7 @@ export const DATA: any  = {
       'categories': [
         4
       ],
-      'img': 'https://alternativebeer.com.co/wp-content/uploads/2020/04/La-Santa-Sek.jpg,
+      'img': 'https://alternativebeer.com.co/wp-content/uploads/2020/04/La-Santa-Sek.jpg',
       'description': 'Grado de alcohol: 5,0% Estilo: Kölsch Presentación: 350 ml.'
     },
     {
@@ -88,7 +88,7 @@ export const DATA: any  = {
         1,
         2
       ],
-      'img': 'https://alternativebeer.com.co/tienda/cervezas/categorias/oscuras/hakuna-marinera/',
+      'img': 'https://alternativebeer.com.co/wp-content/uploads/2019/04/Marinera.jpg',
       'description': 'Estilo: Irish Red Ale Grado de alcohol: 6,5% Presentación: 330 ml'
     },
     {
