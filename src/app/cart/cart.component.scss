@@ -33,7 +33,7 @@
   border-radius: 44px;
   height: 44px;
   padding: 0 25px;
-  border: none;
+  border: #E9B21C;
   background-color: #E9B21C;
   box-shadow: 0 2px 19px rgba(0, 0, 0, 0.32);
   color: rgb(0, 0, 0);
@@ -97,7 +97,7 @@
       margin: 0;
     }
     &:not(:last-child){
-      border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+      border-bottom: 1px solid rgba(243, 14, 14, 0.2);
     }
     .delete-btn{
       position: absolute;
@@ -165,7 +165,7 @@
     border-radius: 50px;
     position: relative;
     z-index: 5;
-    background: none;
+    background: #E9B21C;
     @include transition-fade-circ(0.2s);
     img{
       position: relative;
@@ -232,7 +232,7 @@
       }
     }
     .expanded-info{
-      width: 90%;
+      width: 130%;
       h3{
         font-size: 0.9em;
       }
