@@ -42,7 +42,7 @@
 }
 
 .expanded-info{
-  opacity: 0;
+  opacity: 100;
   z-index: -1;
   position: absolute;
   top: 0;
@@ -138,8 +138,8 @@
   .fill{
     height: 40px;
     width: 40px;
-    box-shadow: 0 2px 13px rgba(93, 78, 240, 0.55);
-    background: $primary-color;
+    box-shadow: 0 2px 13px rgba(53, 52, 59, 0.55);
+    background: #000000;
     border-radius: 50px;
     z-index: 4;
     @include transition-fade-circ(0.35s);

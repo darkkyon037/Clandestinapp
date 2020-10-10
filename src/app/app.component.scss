@@ -80,5 +80,14 @@ url-form{
       left: 0;
       z-index: 9000;
     }
-
   }
+
+  .footer{
+    position: absolute;
+    align-content: center;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 60px;
+    line-height: 60px;
+}

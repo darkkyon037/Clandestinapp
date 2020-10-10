@@ -47,3 +47,25 @@ button {
   cursor: pointer;
 }
 
+nav{
+  color:gold;
+  height: 100%;
+  margin: 0;
+  font-size: 16px;
+  font-weight: 400;
+  background-color: #e7e7e7;
+
+}
+
+.page-footer {
+  background: #e0e0e0;
+  margin: 0 0 1rem;
+  height: 10rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #E9B21C;
+  padding: .2rem;
+  /* align-items por defecto tiene el valor `stretch` */
+  align-items: start;
+}
