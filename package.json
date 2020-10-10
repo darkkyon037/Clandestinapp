@@ -1,6 +1,7 @@
 {
-  "name": "Clandestinapp-shop",
+  "name": "angular2-store",
   "version": "0.0.0",
+  "license": "MIT",
   "angular-cli": {},
   "scripts": {
     "start": "ng serve",
