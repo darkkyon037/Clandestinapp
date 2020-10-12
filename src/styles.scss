@@ -134,3 +134,17 @@ ul.nav li + li {
 ul.nav li:nth-child(6) {
     margin-left: 100px;
 }
+
+/* Selecciona cualquier elemento <a> cuando está "mantenido (hovered)" */
+ul.nav li a:hover {
+  color: orange;
+}
+
+ul.nav li a{
+  background-color: #e7e7e7;
+  transition: background-color .5s;
+}
+
+ul.nav li a:link {text-decoration: none }
+ul.nav li a:visited {color: orange;  font-family: arial; text-decoration: none }
+*{outline:none !important;}*:focus {outline: none !important;}textarea:focus, input:focus{outline: none !important;}	a{text-decoration: none !important;outline: none !important;}
