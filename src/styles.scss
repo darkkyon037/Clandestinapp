@@ -48,7 +48,7 @@ button {
 }
 
 nav{
-  color:gold;
+  color:goldenrod;
   height: 100%;
   margin: 0;
   font-size: 16px;
@@ -68,4 +68,69 @@ nav{
   padding: .2rem;
   /* align-items por defecto tiene el valor `stretch` */
   align-items: start;
+}
+
+
+//MENU
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+img {
+  vertical-align: middle;
+}
+
+.navbar-inner {
+  position: relative;
+  height: 100px;
+  margin: 3px;
+  /*display: -ms-flexbox;*/
+  /* display: -webkit-flex; */
+  display: flex;
+  /* -webkit-flex-direction: row; */
+  /*-ms-flex-direction: row;*/
+  /* flex-direction: row; */
+  /* -webkit-flex-wrap: nowrap; */
+  /*-ms-flex-wrap: nowrap;*/
+  /* flex-wrap: nowrap; */
+  /* -webkit-align-items: center; */
+  /*-ms-flex-align: center;*/
+  align-items: center;
+  /* -webkit-justify-content: center; */
+  /*-ms-flex-pack: center;*/
+  /* justify-content: center; */
+  /* padding: 28px 15px; */
+}
+
+/*
+div.logo {
+  position: absolute;
+  top: 50%;
+  down: 90%;
+  left: 52%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  z-index: 6;
+  will-change: transform;
+}*/
+
+ul.nav {
+  width: 100%;
+  text-align: center;
+  list-style: none;
+}
+
+ul.nav li {
+  position: relative;
+  display: inline-block;
+}
+
+ul.nav li + li {
+  margin-left: 50px;
+}
+
+ul.nav li:nth-child(6) {
+    margin-left: 100px;
 }
